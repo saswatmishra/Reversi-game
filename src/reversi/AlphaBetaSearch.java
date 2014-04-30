@@ -118,6 +118,6 @@ public class AlphaBetaSearch {
 			if (v > b)
 				b = v;
 		}
-		return v;
+		return v; 
 	}
 }
